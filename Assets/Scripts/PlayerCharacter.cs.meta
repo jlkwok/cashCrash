@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 98abd6a146fe70c48b35cbd20bd0dbfe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  - playAgainButton: {instanceID: 0}
+  - returnToMenuButton: {instanceID: 0}
+  - moneyBar: {instanceID: 0}
+  - HealthBar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0b5b097a38ed3e627b6072f15980f3ac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - movementSound: {fileID: 8300000, guid: d10148f76581f884d8a9be37633c26e7, type: 3}
+  - animator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

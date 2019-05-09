@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d0a088cd0d56f68b59d4467e8475e056
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - roadPrefab: {fileID: 8227080839268959526, guid: 0740ff046eb5394d0b02da2185d5cd72,
+      type: 3}
+  - healthPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
